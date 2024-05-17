@@ -1,4 +1,4 @@
-# Developing a Chatbot with Streamlit, LangChain, and OpenAI
+# Chatbot Maker with Streamlit, LangChain
 This chat application integrates PDF interaction with the advanced capabilities of OpenAI's language model and LangChain, enabling natural and intuitive conversations with PDF documents. It simplifies information retrieval, analysis, and collaboration like never before.
 
 ## LangChain
